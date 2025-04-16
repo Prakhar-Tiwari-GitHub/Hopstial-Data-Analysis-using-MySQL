@@ -1,0 +1,51 @@
+TreatmentID,PatientID,TreatmentType,Date,Outcome,DoctorID
+1,1,Physical Therapy,10-01-2023,Improved,101
+2,2,Medication,11-01-2023,Stable,102
+3,3,Surgery,12-01-2023,Successful,103
+4,4,Consultation,13-01-2023,Follow-up needed,104
+5,5,Vaccination,14-01-2023,Completed,105
+6,6,Physical Therapy,15-01-2023,Improved,106
+7,7,Medication,16-01-2023,Stable,107
+8,8,Surgery,17-01-2023,Successful,108
+9,9,Consultation,18-01-2023,Follow-up needed,109
+10,10,Vaccination,19-01-2023,Completed,110
+11,11,Physical Therapy,20-01-2023,Improved,101
+12,12,Medication,21-01-2023,Stable,102
+13,13,Surgery,22-01-2023,Successful,103
+14,14,Consultation,23-01-2023,Follow-up needed,104
+15,15,Vaccination,24-01-2023,Completed,105
+16,16,Physical Therapy,25-01-2023,Improved,106
+17,17,Medication,26-01-2023,Stable,107
+18,18,Surgery,27-01-2023,Successful,108
+19,19,Consultation,28-01-2023,Follow-up needed,109
+20,20,Vaccination,29-01-2023,Completed,110
+21,21,Physical Therapy,30-01-2023,Improved,101
+22,22,Medication,31-01-2023,Stable,102
+23,23,Surgery,01-02-2023,Successful,103
+24,24,Consultation,02-02-2023,Follow-up needed,104
+25,25,Vaccination,03-02-2023,Completed,105
+26,26,Physical Therapy,04-02-2023,Improved,106
+27,27,Medication,05-02-2023,Stable,107
+28,28,Surgery,06-02-2023,Successful,108
+29,29,Consultation,07-02-2023,Follow-up needed,109
+30,30,Vaccination,08-02-2023,Completed,110
+31,31,Physical Therapy,09-02-2023,Improved,101
+32,32,Medication,10-02-2023,Stable,102
+33,33,Surgery,11-02-2023,Successful,103
+34,34,Consultation,12-02-2023,Follow-up needed,104
+35,35,Vaccination,13-02-2023,Completed,105
+36,36,Physical Therapy,14-02-2023,Improved,106
+37,37,Medication,15-02-2023,Stable,107
+38,38,Surgery,16-02-2023,Successful,108
+39,39,Consultation,17-02-2023,Follow-up needed,109
+40,40,Vaccination,18-02-2023,Completed,110
+41,41,Physical Therapy,19-02-2023,Improved,101
+42,42,Medication,20-02-2023,Stable,102
+43,43,Surgery,21-02-2023,Successful,103
+44,44,Consultation,22-02-2023,Follow-up needed,104
+45,45,Vaccination,23-02-2023,Completed,105
+46,46,Physical Therapy,24-02-2023,Improved,106
+47,47,Medication,25-02-2023,Stable,107
+48,48,Surgery,26-02-2023,Successful,108
+49,49,Consultation,27-02-2023,Follow-up needed,109
+50,50,Vaccination,28-02-2023,Completed,110

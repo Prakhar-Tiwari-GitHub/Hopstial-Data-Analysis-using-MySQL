@@ -1,0 +1,11 @@
+DoctorID,Name,Specialty,ContactInfo
+101,Dr. Alice Carter,Cardiology,alice.carter@example.com
+102,Dr. Bob Smith,Dermatology,bob.smith@example.com
+103,Dr. Charlie Brown,Pediatrics,charlie.brown@example.com
+104,Dr. Diana Prince,Oncology,diana.prince@example.com
+105,Dr. Ethan Hunt,Orthopedics,ethan.hunt@example.com
+106,Dr. Fiona Green,Neurology,fiona.green@example.com
+107,Dr. George Black,General Practice,george.black@example.com
+108,Dr. Hannah White,Psychiatry,hannah.white@example.com
+109,Dr. Ian Gray,Gastroenterology,ian.gray@example.com
+110,Dr. Julia Red,Endocrinology,julia.red@example.com
